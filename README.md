@@ -1,4 +1,4 @@
-# PHP PDO CRUD Controller
+# CRUD PDO Controller em PHP
 
 Este é um simples controlador PHP que facilita as operações CRUD (Create, Read, Update, Delete) em um banco de dados MySQL utilizando PDO (PHP Data Objects).
 
